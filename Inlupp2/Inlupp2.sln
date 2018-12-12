@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Inlupp2", "Inlupp2\Inlupp2.vcxproj", "{14DBF5BB-63F3-4631-B425-B41B1CAFD5E5}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Inlupp2Test", "Inlupp2Test\Inlupp2Test.vcxproj", "{38CEC8B1-41F2-4ECE-B70B-757D9AB1D0F4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{14DBF5BB-63F3-4631-B425-B41B1CAFD5E5}.Release|x64.Build.0 = Release|x64
 		{14DBF5BB-63F3-4631-B425-B41B1CAFD5E5}.Release|x86.ActiveCfg = Release|Win32
 		{14DBF5BB-63F3-4631-B425-B41B1CAFD5E5}.Release|x86.Build.0 = Release|Win32
+		{38CEC8B1-41F2-4ECE-B70B-757D9AB1D0F4}.Debug|x64.ActiveCfg = Debug|x64
+		{38CEC8B1-41F2-4ECE-B70B-757D9AB1D0F4}.Debug|x64.Build.0 = Debug|x64
+		{38CEC8B1-41F2-4ECE-B70B-757D9AB1D0F4}.Debug|x86.ActiveCfg = Debug|Win32
+		{38CEC8B1-41F2-4ECE-B70B-757D9AB1D0F4}.Debug|x86.Build.0 = Debug|Win32
+		{38CEC8B1-41F2-4ECE-B70B-757D9AB1D0F4}.Release|x64.ActiveCfg = Release|x64
+		{38CEC8B1-41F2-4ECE-B70B-757D9AB1D0F4}.Release|x64.Build.0 = Release|x64
+		{38CEC8B1-41F2-4ECE-B70B-757D9AB1D0F4}.Release|x86.ActiveCfg = Release|Win32
+		{38CEC8B1-41F2-4ECE-B70B-757D9AB1D0F4}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
