@@ -39,6 +39,7 @@
     <ClInclude Include="pch.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="DoubleLinkedListTest.cpp" />
     <ClCompile Include="LinkedListTest.cpp" />
     <ClCompile Include="QueueTest.cpp" />
     <ClCompile Include="pch.cpp">
