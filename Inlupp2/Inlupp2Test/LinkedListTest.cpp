@@ -110,7 +110,6 @@ TEST(LinkedListTests, AddElementAtPositionShouldAddElementInGivenPosition)
 	AddByPos.AddElementAtStart(1);
 	AddByPos.AddElementAtStart(2);
 	AddByPos.AddElementAtStart(3);
-	AddByPos.AddElementAtStart(4);
 	AddByPos.AddElementAtPosition(15, 3);
 	EXPECT_EQ(15, AddByPos.PeekByPosition(3));
 }
